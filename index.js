@@ -113,13 +113,6 @@ button.addEventListener("click", () => {
 
   newName = name.join("");
   textarea.innerText = newName;
-  if (textarea.innerText !== newName) {
-    copy.style.display = "none";
-    console.log("I am empty!");
-  } else if (textarea.innerText == newName) {
-    copy.style.display = "flex";
-    console.log("I am not empty!");
-  }
 });
 
 textarea.addEventListener("input", () => {
