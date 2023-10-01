@@ -1,4 +1,4 @@
-# Password Generator
+# CryptaLock Password Generator
 
 Generate strong and secure passwords with ease using this Password Generator tool. This simple web application allows you to create custom passwords with various options for complexity and length.
 
